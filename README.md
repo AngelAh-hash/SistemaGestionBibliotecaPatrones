@@ -42,6 +42,6 @@ El sistema permite gestionar:
 
 ## Autor
 
-**Romel Arroyo H.**
+**Angel Arroyo H.**
 
 Universidad Tecnológica del Perú
